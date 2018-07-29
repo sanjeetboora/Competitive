@@ -1,4 +1,6 @@
-/* The span si of a stock’s price on a certain day i is the minimum number of consecutive days (up to the current day) the price of the stock has been less than its price on that ith day. If for a particular day, if no stock price is greater then just count the number of days till 0th day including current day.  */
+/* The span si of a stock’s price on a certain day i is the minimum number of consecutive days (up to the current day)
+the price of the stock has been less than its price on that ith day. If for a particular day, if no stock price is greater then
+just count the number of days till 0th day including current day.  */
 #include<iostream>
 #include<stack>
 #include<vector>
